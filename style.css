@@ -203,7 +203,7 @@ nav a {
   margin-top: 10px;
 }
 #product-img {
-  background: url(./images/hero_iphone_13pro.jpg) center no-repeat;
+  background: url(./images/hero_iphone_13pro_alternative.jpg) center no-repeat;
   height: 600px;
   margin-top: -200px;
 }
@@ -214,6 +214,7 @@ nav a {
 #product-name {
   /*font-size: ;*/
   font-weight: 600;
+  color: #67806A
 }
 #product-text {
   text-align: center;
@@ -234,7 +235,7 @@ nav a {
   margin: 0 6px 12px;
 }
 #product-links > li > a {
-  color: #08c;
+  color: #67806A;
   text-decoration: none;
 }
 #product-links > li > a:hover {
