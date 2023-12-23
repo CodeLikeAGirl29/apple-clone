@@ -3,7 +3,11 @@ center>
 
 ![ios-logo](https://res.cloudinary.com/codelikeagirl29/image/upload/v1701913914/apple-logo-img_m7z3h9.png)
 
-A brief description of what this project does and who it's for
+Begin by thoroughly examining the Apple website mock design. Identify the layout, color schemes, typography, and overall structure. Take note of the placement of elements such as the header, navigation bar, featured products, and footer.
+
+Replace generic HTML tags with semantic tags to improve accessibility and SEO. For example, use ```<nav>``` for the navigation bar, ```<section>``` for content sections, and ```<article>``` for individual product details.
+
+> Live link can be found on netlify - [here](https://ios-apple-clone.netlify.app/)
 
 __Layout summary__
 
@@ -27,14 +31,8 @@ The **footer** has 5 columns of site links. Each column should take up 20% width
 
 A [link](https://drive.google.com/file/d/1AXhCUMzccn-XPsc-ibmP_9Fjz9uF_-w0/view?usp=sharing) to the *starter kit* provided by [altcademy](https://altcademy.com)
 
-
-
-
 ## Screenshots
 
 ![App Screenshot](https://res.cloudinary.com/codelikeagirl29/image/upload/v1701913486/Apple_icqy5a.png)
-
-
-> Live link can be found on netlify - [here](https://ios-apple-clone.netlify.app/)
 
  </center>
