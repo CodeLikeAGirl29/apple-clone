@@ -5,7 +5,7 @@ center>
 
 Begin by thoroughly examining the Apple website mock design. Identify the layout, color schemes, typography, and overall structure. Take note of the placement of elements such as the header, navigation bar, featured products, and footer.
 
-Replace generic HTML tags with semantic tags to improve accessibility and SEO. For example, use ```<nav>``` for the navigation bar, ```<section>``` for content sections, and ```<article>``` for individual product details.
+Replace generic HTML tags with semantic tags to improve accessibility and SEO. For example, use ```<nav>``` for the navigation bar, ```<div class="container">``` for content sections, and ```<div class="container">``` for individual product details.
 
 > Live link can be found on netlify - [here](https://ios-apple-clone.netlify.app/)
 
